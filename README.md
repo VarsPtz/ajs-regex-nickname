@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6g559aerciip4kyu?svg=true)](https://ci.appveyor.com/project/VarsPtz/ajs-regex-nickname)
 # Домашнее задание к лекции «Регулярные выражения»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
