@@ -1,5 +1,3 @@
-import { construct } from 'core-js/fn/reflect';
-
 export default class Validator {
   validateUsername(name) {
     this.name = name;

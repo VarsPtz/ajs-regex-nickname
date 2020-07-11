@@ -1,5 +1,4 @@
 import Validator from '../app';
-import { MIN_SAFE_INTEGER } from 'core-js/fn/number';
 
 test('Проверка на совпадение шаблона - success', () => {
   const name = "a123_adc-b"; 
